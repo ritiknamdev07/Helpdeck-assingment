@@ -2,11 +2,16 @@
 
 This is a Helpdesk web application built with React, React Router, and Tailwind CSS. The app includes multiple pages like Sign In, Sign Up, Forgot Password, Dashboard, My Ticket, New Ticket, User Profile, Settings, Performance, and more.
 
+# Live link: 
+```bash
+https://helpdesk-by-ritik-namdev.netlify.app/
+```
+
 ## Features
-- User authentication (Sign In, Sign Up, Forgot Password)
+- Sign In, Sign Up, Forgot Password pages
 - Dashboard for managing tickets and user information
-- Create new tickets
-- View and update user profiles
+- new tickets
+- user profiles
 - Performance tracking
 
 ---
